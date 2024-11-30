@@ -6,4 +6,7 @@
 
 :root {
     font-family: "DM Sans", sans-serif;
+    color: #fff;
+    background-color: #0C0A09;
+    --primary: #e11d48;
 }
